@@ -4,20 +4,18 @@ This Hello World Project was a test project to ensure that my repository was pro
 
 This project is a simple python program that prints out "Hello World" with a little twist.
 
-{Describe your purpose for creating this software.}
+The main objective of this project was to ensure that I properly set up my remote repository on Github and that it's properly connected to my local machine.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/So9cVv6SdFo)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+The editor that I used to create this program was VSCode layered with Vim emulation.
 
-{Describe the programming language that you used}
+The programming language that I used was Python with the specific version being 3.10.9.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Github Docs](https://docs.github.com/en)
+* [W3Schools Python](https://www.w3schools.com/python/)
